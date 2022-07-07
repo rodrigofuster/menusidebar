@@ -1,4 +1,4 @@
-# Menu Lateral 
+# Menu Responsivo
 <hr>
 
 ## Descrição:
