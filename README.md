@@ -5,13 +5,13 @@
 ### :computer: Elaboração de Menu responsivo utilizando HTML, CSS e JavaScript. 
 <hr>
 
-### Ver Projeto: :point_right: [Menu]( https://github.com/rodrigofuster/Menu-sidebar)
+### Ver Projeto: :point_right: [Menu]( https://rodrigofuster.github.io/menusidebar/)
 
 
  
 <img height="400em" width="400em" src="https://user-images.githubusercontent.com/87047818/177666235-7599b3f5-39c3-4f5f-bf79-0465f25f80de.gif"/>
 
-**Jogo** :point_right: [FlappyBird]( https://rodrigofuster.github.io/Flappy-Bird-Game/)
+
 
 <hr>
 
